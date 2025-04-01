@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6lGII5lAthMTaduMCEGal/NuGkCKhd9tyaMtgagG3nQ=",
+  "Source": "RESTBooks",
+  "BasePath": "_content/RESTBooks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

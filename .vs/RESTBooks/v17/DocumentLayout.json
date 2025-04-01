@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\ASP net REST\\RESTBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|d:\\programming\\asp net rest\\restbooks\\restbooks\\dto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|solutionrelative:restbooks\\dto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|d:\\programming\\asp net rest\\restbooks\\restbooks\\data\\ibookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|solutionrelative:restbooks\\data\\ibookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|d:\\programming\\asp net rest\\restbooks\\restbooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|solutionrelative:restbooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|d:\\programming\\asp net rest\\restbooks\\restbooks\\data\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|solutionrelative:restbooks\\data\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|d:\\programming\\asp net rest\\restbooks\\restbooks\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A7ABB-8CC5-4114-943C-9FB3F2A03735}|RESTBooks\\RESTBooks.csproj|solutionrelative:restbooks\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "RESTBooks\\DTO\\BookDto.cs",
+              "ToolTip": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\DTO\\BookDto.cs",
+              "RelativeToolTip": "RESTBooks\\DTO\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:13:24.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\DTO\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "RESTBooks\\DTO\\CreateBookDto.cs",
+              "ToolTip": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\DTO\\CreateBookDto.cs",
+              "RelativeToolTip": "RESTBooks\\DTO\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:13:38.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookStore.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\Data\\BookStore.cs",
+              "RelativeDocumentMoniker": "RESTBooks\\Data\\BookStore.cs",
+              "ToolTip": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\Data\\BookStore.cs",
+              "RelativeToolTip": "RESTBooks\\Data\\BookStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:19:02.43Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookStore.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\Data\\IBookStore.cs",
+              "RelativeDocumentMoniker": "RESTBooks\\Data\\IBookStore.cs",
+              "ToolTip": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\Data\\IBookStore.cs",
+              "RelativeToolTip": "RESTBooks\\Data\\IBookStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:02:45.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "RESTBooks\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Programming\\ASP net REST\\RESTBooks\\RESTBooks\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "RESTBooks\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:34:18.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
